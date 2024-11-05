@@ -1,15 +1,12 @@
-Data aplikacija predstavlja maloprodajnu kasu.
- 
+The Data application represents a retail cash register.
 
-Softverski sistem je razvijen u Javi, u okruženju NetBeans 15 i projektovan je kao desktop klijent server aplikacija. Sistem se deli u tri projekta: Serverski, KLijentski i Zajednički.
+The software system is developed in Java, within the NetBeans 15 environment, and designed as a desktop client-server application. The system is divided into three projects: Server, Client, and Shared.
 
+It is required that the cashier logs in from the client side using a username and password to access the program and its functionalities.
 
-Neophodno je da se zaposleni kasir sa klijentske strane uloguje preko korisničkog imena i lozinke, kako bi pristupio samom programu i njegovim funkcionalnostima. 
+After logging in, the main form appears, from which the basic functionalities can be accessed:
 
-
-Nakon toga prikazuje se glavna forma iz koje se može pristupiti osnovnim funkcionalnostima: 
-
-1.Kreiranje računa
-2.Pregled računa
-3.Izmena i brisanje računa
-4. Plaćanje računa
+1. Creating an invoice
+2. Viewing invoices
+3. Editing and deleting invoices
+4. Invoice payment
