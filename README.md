@@ -1,4 +1,4 @@
-The Data application represents a retail cash register.
+The application represents a retail cash register.
 
 The software system is developed in Java, within the NetBeans 15 environment, and designed as a desktop client-server application. The system is divided into three projects: Server, Client, and Shared.
 
